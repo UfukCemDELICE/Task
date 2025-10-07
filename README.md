@@ -1,1 +1,4 @@
 model repo: https://huggingface.co/UfukCem/imdb-bert-LoRA-finetuned
+
+#TODO: Dockerize
+#TODO: UI
