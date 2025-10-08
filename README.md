@@ -31,7 +31,7 @@ Docker konteynerinde çalıştırılabilir. Ayrıca basit bir UI için **Streaml
 ```bash
 git clone https://github.com/UfukCemDELICE/Task.git
 cd Task
-uv install -r pyproject.toml
+uv sys
 ```
 Docker ile çalıştırmak için:
 ```bash
